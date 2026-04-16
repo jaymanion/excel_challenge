@@ -41,9 +41,13 @@ Analyze crowdfunding campaign data to identify key factors that influence projec
 - Supporting calculations and statistical outputs  
 
 ## Dashboard Preview
+### Campaign Outcomes by Parent-Category
 <img width="1875" height="624" alt="image" src="https://github.com/user-attachments/assets/a7814c13-163d-4635-a041-43f5e42c5bf3" />
+### Campaign Outcomes by Sub-Category
 <img width="1717" height="620" alt="image" src="https://github.com/user-attachments/assets/6867d44f-14bb-465c-8369-c3c4b31e7190" />
+### Goal vs Success Rate
 <img width="1054" height="684" alt="image" src="https://github.com/user-attachments/assets/3233cca8-be3a-4f1e-9441-8f86015c8e88" />
+### Goal vs Success Rate Analysis
 <img width="812" height="607" alt="image" src="https://github.com/user-attachments/assets/bc070ce6-4adf-4477-88ba-edc7a69da7d5" />
 
 
