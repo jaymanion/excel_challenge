@@ -8,9 +8,11 @@ Microsoft Excel
 Pivot Tables
 Data Visualization
 Statistical Analysis
+
 Dataset
 1,000 crowdfunding projects
 Includes data on funding goals, outcomes, backers, categories, and timelines
+
 Key Analysis Performed
 Created calculated fields such as:
 Percent Funded
@@ -26,11 +28,13 @@ Developed interactive charts and dashboards to visualize:
 Success vs failure rates
 Goal vs outcome relationships
 Time-based trends
+
 Key Insights
 Campaigns with lower funding goals had significantly higher success rates
 Certain categories consistently outperformed others in terms of funding success
 Launch timing showed trends in campaign success, suggesting seasonal or timing effects
 Successful campaigns generally had higher average backers and funding efficiency
+
 Project Files
 Excel workbook with full analysis
 Pivot tables and charts
